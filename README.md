@@ -1,6 +1,12 @@
-Instalação:
+# Dashboard Insights Sustentabilidade
 
-# Criar ambiente virtual
+Dashboard de análise de eficiência de sustentabilidade para empresas.
+
+
+## Instalação:
+
+```bash
+# Criar ambiente virtual:
 python -m venv venv
 
 # Ativar ambiente virtual
