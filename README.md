@@ -1,7 +1,8 @@
-# Dashboard Insights Sustentabilidade
+# GreenFlow
+Dashboard de Insights de Sustentabilidade
 
-Dashboard de análise de eficiência de sustentabilidade para empresas.
-
+## Descrição:
+Dashboard com informações sobre insights sobre sustentabilidade e instruções de como aceder
 
 ## Instalação:
 
